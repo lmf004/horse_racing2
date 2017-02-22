@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "timer-bg-full-stretch",
+    "texture": "108af3c5-5f68-4cb0-a7de-96ae5b826ae8",
+    "atlas": "",
+    "rect": [
+      2,
+      4,
+      16,
+      16
+    ],
+    "offset": [
+      0,
+      -2
+    ],
+    "originalSize": [
+      20,
+      20
+    ],
+    "capInsets": [
+      6,
+      4,
+      6,
+      8
+    ]
+  }
+}

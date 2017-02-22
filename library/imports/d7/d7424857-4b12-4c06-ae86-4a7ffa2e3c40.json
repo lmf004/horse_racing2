@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "horseRacing___shared___horses___horse-grey-dark",
+    "texture": "47659055-7698-40ac-aaff-2a674b60b86d",
+    "atlas": "",
+    "rect": [
+      14,
+      0,
+      457,
+      320
+    ],
+    "offset": [
+      2.5,
+      0
+    ],
+    "originalSize": [
+      480,
+      320
+    ]
+  }
+}

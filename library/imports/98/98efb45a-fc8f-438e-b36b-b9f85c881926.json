@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "horseRacing___shared___horses___mask2-white",
+    "texture": "8abc5b50-ad76-4bb7-ba0b-141b246b82ed",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      235,
+      177
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      235,
+      177
+    ]
+  }
+}

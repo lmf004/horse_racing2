@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "horseRacing___racing___pips___pip-05",
+    "texture": "20a57f70-3092-445f-b8e1-0c233c0ce058",
+    "atlas": "",
+    "rect": [
+      5,
+      4,
+      50,
+      72
+    ],
+    "offset": [
+      -2,
+      -2
+    ],
+    "originalSize": [
+      64,
+      76
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dot_active",
+    "texture": "c92b0c62-d039-4256-9916-35620b9d7d2a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      19,
+      16
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      20,
+      16
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "d71610d8-91f0-4661-80d0-c63355f11191",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "horseRacing___betting___mainscreen___chips-icon": {
+      "ver": "1.0.3",
+      "uuid": "d868c0c2-127f-464e-877f-b8a8ec6bd12b",
+      "rawTextureUuid": "d71610d8-91f0-4661-80d0-c63355f11191",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": -3.5,
+      "trimX": 5,
+      "trimY": 9,
+      "width": 40,
+      "height": 41,
+      "rawWidth": 52,
+      "rawHeight": 52,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

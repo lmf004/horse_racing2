@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "c5404e00-cffe-4272-ba11-3316054d6d54",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "horseRacing___shared___horses___horse-spotted": {
+      "ver": "1.0.3",
+      "uuid": "fc6cf14e-a461-43b3-b3c2-af6b5a8d39cd",
+      "rawTextureUuid": "c5404e00-cffe-4272-ba11-3316054d6d54",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 2.5,
+      "offsetY": 0,
+      "trimX": 14,
+      "trimY": 0,
+      "width": 457,
+      "height": 320,
+      "rawWidth": 480,
+      "rawHeight": 320,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

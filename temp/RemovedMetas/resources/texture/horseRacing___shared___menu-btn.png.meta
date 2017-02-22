@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "404e9171-7beb-422f-a056-3cd17daf9ecd",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "horseRacing___shared___menu-btn": {
+      "ver": "1.0.3",
+      "uuid": "a29d9e43-96f1-4442-891a-b3d7840a33f6",
+      "rawTextureUuid": "404e9171-7beb-422f-a056-3cd17daf9ecd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -1.5,
+      "trimX": 2,
+      "trimY": 6,
+      "width": 87,
+      "height": 81,
+      "rawWidth": 90,
+      "rawHeight": 90,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

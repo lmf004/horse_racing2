@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "bb51efd8-7949-4867-8d00-45d96193c903",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "betting___mainscreen___horse-bg": {
+      "ver": "1.0.3",
+      "uuid": "debb5988-0c2c-424e-b3e9-cca8975ef84d",
+      "rawTextureUuid": "bb51efd8-7949-4867-8d00-45d96193c903",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 30,
+      "height": 30,
+      "rawWidth": 32,
+      "rawHeight": 32,
+      "borderTop": 11,
+      "borderBottom": 11,
+      "borderLeft": 11,
+      "borderRight": 11,
+      "subMetas": {}
+    }
+  }
+}

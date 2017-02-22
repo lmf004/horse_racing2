@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "baba8717-2457-4e4c-9341-f5b81b4c5c7e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "horseRacing___betting___betpopup___show-btn-press": {
+      "ver": "1.0.3",
+      "uuid": "bfcd2544-d287-4989-a92f-738c5f298906",
+      "rawTextureUuid": "baba8717-2457-4e4c-9341-f5b81b4c5c7e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1,
+      "offsetY": 6.5,
+      "trimX": 5,
+      "trimY": 0,
+      "width": 160,
+      "height": 59,
+      "rawWidth": 168,
+      "rawHeight": 72,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

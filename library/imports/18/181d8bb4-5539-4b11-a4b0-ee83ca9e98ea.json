@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "track-bg-blur",
+    "texture": "813f3977-f888-4631-bd38-6b76e78b8c88",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      768,
+      1024
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      768,
+      1024
+    ]
+  }
+}

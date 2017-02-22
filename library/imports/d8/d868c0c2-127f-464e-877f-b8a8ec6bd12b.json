@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "horseRacing___betting___mainscreen___chips-icon",
+    "texture": "d71610d8-91f0-4661-80d0-c63355f11191",
+    "atlas": "",
+    "rect": [
+      5,
+      9,
+      40,
+      41
+    ],
+    "offset": [
+      -1,
+      -3.5
+    ],
+    "originalSize": [
+      52,
+      52
+    ]
+  }
+}

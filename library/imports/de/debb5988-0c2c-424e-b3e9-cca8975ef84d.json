@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "betting___mainscreen___horse-bg",
+    "texture": "bb51efd8-7949-4867-8d00-45d96193c903",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      30,
+      30
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      32,
+      32
+    ],
+    "capInsets": [
+      11,
+      11,
+      11,
+      11
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "horseRacing___betting___betpopup___betting-close",
+    "texture": "6f00e253-8029-499d-bf3d-990127c77c76",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      133,
+      129
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      136,
+      132
+    ]
+  }
+}

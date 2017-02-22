@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "horseRacing___racing___places___place-04",
+    "texture": "eb1aca27-c0c7-42aa-810f-b1107bdd5707",
+    "atlas": "",
+    "rect": [
+      4,
+      4,
+      67,
+      76
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      76,
+      84
+    ]
+  }
+}

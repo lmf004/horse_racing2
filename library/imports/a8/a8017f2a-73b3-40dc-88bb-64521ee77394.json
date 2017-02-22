@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "betting___mainscreen___bet-btn-bg",
+    "texture": "bc841d42-a950-490d-ba4b-80c3c106b92e",
+    "atlas": "",
+    "rect": [
+      2,
+      7,
+      312,
+      242
+    ],
+    "offset": [
+      0,
+      -2
+    ],
+    "originalSize": [
+      316,
+      252
+    ]
+  }
+}

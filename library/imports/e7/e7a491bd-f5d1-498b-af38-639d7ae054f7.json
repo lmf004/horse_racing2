@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "horseRacing___shared___horses___horse-blonde",
+    "texture": "62e14025-b7ed-4137-8822-73457d605efa",
+    "atlas": "",
+    "rect": [
+      15,
+      0,
+      457,
+      320
+    ],
+    "offset": [
+      3.5,
+      0
+    ],
+    "originalSize": [
+      480,
+      320
+    ]
+  }
+}

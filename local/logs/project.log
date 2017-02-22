@@ -1,0 +1,47 @@
+2017-02-22T07:12:42.069Z - normal: Load ~/.CocosCreator/settings.json
+2017-02-22T07:12:42.075Z - normal: checking language setting...
+2017-02-22T07:12:42.076Z - normal: Language: zh
+2017-02-22T07:12:43.202Z - success: protocol editor-framework registered
+2017-02-22T07:12:43.202Z - success: protocol app registered
+2017-02-22T07:12:43.202Z - success: protocol packages registered
+2017-02-22T07:12:43.202Z - success: protocol theme registered
+2017-02-22T07:12:43.202Z - success: protocol unpack registerred
+2017-02-22T07:12:43.531Z - normal: connected!
+2017-02-22T07:12:43.538Z - normal: Check project E:\cocos_proj\horse_racing
+2017-02-22T07:12:43.544Z - normal: Initializing Cocos Creator Editor
+2017-02-22T07:12:44.518Z - normal: Initializing Cocos2d
+2017-02-22T07:12:46.465Z - normal: Initializing Asset Database
+2017-02-22T07:12:46.526Z - success: protocol uuid registerred
+2017-02-22T07:12:46.526Z - success: protocol db registerred
+2017-02-22T07:12:46.526Z - success: protocol thumbnail registerred
+2017-02-22T07:12:46.527Z - normal: Loading editor/builtin packages
+2017-02-22T07:12:47.639Z - success: assets loaded
+2017-02-22T07:12:47.642Z - success: builder loaded
+2017-02-22T07:12:47.647Z - success: hierarchy loaded
+2017-02-22T07:12:47.651Z - success: inspector loaded
+2017-02-22T07:12:47.653Z - success: keystore loaded
+2017-02-22T07:12:47.656Z - success: node-library loaded
+2017-02-22T07:12:47.664Z - success: preferences loaded
+2017-02-22T07:12:47.689Z - success: project-importer loaded
+2017-02-22T07:12:47.692Z - success: project-settings loaded
+2017-02-22T07:12:47.696Z - success: ui-kit loaded
+2017-02-22T07:12:47.703Z - success: ui-grid loaded
+2017-02-22T07:12:47.707Z - success: scene loaded
+2017-02-22T07:12:47.708Z - success: sprite-editor loaded
+2017-02-22T07:12:47.716Z - success: timeline loaded
+2017-02-22T07:12:47.717Z - normal: Loading builtin packages
+2017-02-22T07:12:47.730Z - success: asset-db-debugger loaded
+2017-02-22T07:12:47.732Z - success: code-editor loaded
+2017-02-22T07:12:47.733Z - success: color-picker loaded
+2017-02-22T07:12:47.736Z - success: console loaded
+2017-02-22T07:12:47.738Z - success: package-manager loaded
+2017-02-22T07:12:47.742Z - success: tester loaded
+2017-02-22T07:12:47.746Z - success: ui-kit-preview-extra loaded
+2017-02-22T07:12:47.748Z - success: ui-kit-preview loaded
+2017-02-22T07:12:47.750Z - success: ui-tree loaded
+2017-02-22T07:12:47.884Z - normal: Initializing project E:\cocos_proj\horse_racing
+2017-02-22T07:12:47.888Z - normal: Loading packages
+2017-02-22T07:12:47.893Z - normal: Watching packages
+2017-02-22T07:12:47.921Z - normal: Run Application
+2017-02-22T07:12:49.751Z - success: preview server running at http://localhost:7456
+2017-02-22T07:13:00.280Z - normal: 1.3.3

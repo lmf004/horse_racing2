@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "horseRacing___betting___mainscreen___betbar-02",
+    "texture": "7c8c3e47-cdee-4c73-8217-4d111e8fd867",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      4,
+      40
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      4,
+      40
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "horseRacing___shared___chat___horseNumber-05",
+    "texture": "dd010217-b374-451c-9213-8e8ffdce3539",
+    "atlas": "",
+    "rect": [
+      5,
+      12,
+      97,
+      90
+    ],
+    "offset": [
+      -0.5,
+      -3
+    ],
+    "originalSize": [
+      108,
+      108
+    ]
+  }
+}

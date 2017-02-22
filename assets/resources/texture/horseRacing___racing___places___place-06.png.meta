@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "7f50baf1-5f4c-490b-a6cf-a3ee85bb4556",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "horseRacing___racing___places___place-06": {
+      "ver": "1.0.3",
+      "uuid": "ea672424-46e9-49f8-b26f-c0775d798a61",
+      "rawTextureUuid": "7f50baf1-5f4c-490b-a6cf-a3ee85bb4556",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0,
+      "trimX": 4,
+      "trimY": 4,
+      "width": 67,
+      "height": 76,
+      "rawWidth": 76,
+      "rawHeight": 84,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

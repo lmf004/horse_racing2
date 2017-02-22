@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "horseRacing___shared___horses___horse-spotted",
+    "texture": "c5404e00-cffe-4272-ba11-3316054d6d54",
+    "atlas": "",
+    "rect": [
+      14,
+      0,
+      457,
+      320
+    ],
+    "offset": [
+      2.5,
+      0
+    ],
+    "originalSize": [
+      480,
+      320
+    ]
+  }
+}

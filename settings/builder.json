@@ -1,0 +1,17 @@
+{
+  "excludeScenes": [],
+  "includeAnySDK": false,
+  "includeSdk": [
+    "anysdk"
+  ],
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.horse_racing",
+  "startScene": "e23fae98-aff9-46f9-bfab-4027510407ee",
+  "title": "horse_racing",
+  "webOrientation": "auto"
+}
