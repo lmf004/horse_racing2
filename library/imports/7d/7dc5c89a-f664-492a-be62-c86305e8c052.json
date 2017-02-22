@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "horseRacing___racing___bgTile",
+    "texture": "6afa2a87-5a9c-4636-963f-ae12aeb37ba2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      640,
+      304
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      640,
+      304
+    ]
+  }
+}

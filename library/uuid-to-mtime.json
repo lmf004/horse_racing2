@@ -1,12 +1,12 @@
 {
   "0da29bc9-2f34-4211-8e22-602be9fc67bb": {
-    "asset": 1487668190826,
-    "meta": 1487747568973,
+    "asset": 1487751396941,
+    "meta": 1487751538133,
     "relativePath": "scenes"
   },
   "487850f2-bc4a-434c-8a44-66cffacb7b5c": {
-    "asset": 1484550685094,
-    "meta": 1484634371655,
+    "asset": 1487751396596,
+    "meta": 1487751538131,
     "relativePath": "resources"
   },
   "e23fae98-aff9-46f9-bfab-4027510407ee": {
@@ -15,8 +15,8 @@
     "relativePath": "scenes\\load.fire"
   },
   "2c89ef08-3cb0-42e2-9d21-1b9211d9946b": {
-    "asset": 1487666963429,
-    "meta": 1487747568972,
+    "asset": 1487751396919,
+    "meta": 1487751538132,
     "relativePath": "resources\\texture"
   },
   "8aa34ae8-5ff5-4577-a766-c073afd54b49": {
@@ -25,8 +25,8 @@
     "relativePath": "resources\\texture\\bg.png"
   },
   "81b7d9c8-ae3a-4b2a-b1cf-48e0ed397ee0": {
-    "asset": 1485079840212,
-    "meta": 1485153148906,
+    "asset": 1487751396960,
+    "meta": 1487751538134,
     "relativePath": "script"
   },
   "3b9ffe96-9e07-4a5c-9fb5-50961ae7f56a": {
@@ -60,8 +60,8 @@
     "relativePath": "resources\\texture\\dot_inactive.png"
   },
   "62c7be20-7f57-4938-a6c1-b465137009d5": {
-    "asset": 1485079475950,
-    "meta": 1485153148906,
+    "asset": 1487751396593,
+    "meta": 1487751538130,
     "relativePath": "prefabs"
   },
   "4ab61a46-cf15-4352-91d4-41a00da0a1f4": {
@@ -715,13 +715,33 @@
     "relativePath": "resources\\texture\\horseRacing___betting___betpopup___chipamnt-icon.png"
   },
   "a8ce75c7-4494-40d8-9428-f7ffafebb4c0": {
-    "asset": 1487749722390,
-    "meta": 1487749722419,
+    "asset": 1487756636476,
+    "meta": 1487756636487,
     "relativePath": "scenes\\race.fire"
   },
   "bfcf7889-2a5e-4030-a216-1c70e9c0ba48": {
     "asset": 1487670292570,
     "meta": 1487670296885,
     "relativePath": "resources\\texture\\top-bar-bg2.png"
+  },
+  "6afa2a87-5a9c-4636-963f-ae12aeb37ba2": {
+    "asset": 1459180942000,
+    "meta": 1487752218891,
+    "relativePath": "resources\\texture\\horseRacing___racing___bgTile.jpg"
+  },
+  "f400c5ac-c3ce-45da-975d-dbd290b1cd66": {
+    "asset": 1459181152000,
+    "meta": 1487753404006,
+    "relativePath": "resources\\texture\\horseRacing___racing___pips-bg.png"
+  },
+  "ffd1325d-39a5-485a-b2c4-eca85303344f": {
+    "asset": 1459181152000,
+    "meta": 1487754868076,
+    "relativePath": "resources\\texture\\horseRacing___racing___place-bg.png"
+  },
+  "4fd4b2a3-781a-40c2-a0b5-593e2290fc30": {
+    "asset": 1459181152000,
+    "meta": 1487756529015,
+    "relativePath": "resources\\texture\\horseRacing___racing___winner-stroke.png"
   }
 }

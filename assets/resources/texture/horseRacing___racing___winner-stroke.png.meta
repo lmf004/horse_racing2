@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "4fd4b2a3-781a-40c2-a0b5-593e2290fc30",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "horseRacing___racing___winner-stroke": {
+      "ver": "1.0.3",
+      "uuid": "e57122c4-e2aa-468c-8ef1-c643f6e726dc",
+      "rawTextureUuid": "4fd4b2a3-781a-40c2-a0b5-593e2290fc30",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -1,
+      "trimX": 1,
+      "trimY": 2,
+      "width": 310,
+      "height": 162,
+      "rawWidth": 312,
+      "rawHeight": 164,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

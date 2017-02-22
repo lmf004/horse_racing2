@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "horseRacing___racing___winner-stroke",
+    "texture": "4fd4b2a3-781a-40c2-a0b5-593e2290fc30",
+    "atlas": "",
+    "rect": [
+      1,
+      2,
+      310,
+      162
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      312,
+      164
+    ]
+  }
+}

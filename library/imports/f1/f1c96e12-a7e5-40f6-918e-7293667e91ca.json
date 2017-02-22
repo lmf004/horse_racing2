@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "horseRacing___racing___place-bg",
+    "texture": "ffd1325d-39a5-485a-b2c4-eca85303344f",
+    "atlas": "",
+    "rect": [
+      7,
+      5,
+      299,
+      151
+    ],
+    "offset": [
+      0.5,
+      1.5
+    ],
+    "originalSize": [
+      312,
+      164
+    ]
+  }
+}
