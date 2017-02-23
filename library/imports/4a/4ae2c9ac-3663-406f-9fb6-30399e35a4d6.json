@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "horseRacing___results___win-ribbon",
+    "texture": "e234da1d-0bc0-4932-bbb9-e5e7a3808d38",
+    "atlas": "",
+    "rect": [
+      5,
+      19,
+      599,
+      126
+    ],
+    "offset": [
+      -3.5,
+      -2
+    ],
+    "originalSize": [
+      616,
+      160
+    ]
+  }
+}

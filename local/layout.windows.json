@@ -52,7 +52,7 @@
             ],
             "height": 748,
             "type": "panel",
-            "width": 648
+            "width": 651
           },
           {
             "children": [
@@ -61,9 +61,9 @@
                 "children": [
                   "inspector"
                 ],
-                "height": 545.28125,
+                "height": 545,
                 "type": "panel",
-                "width": 365
+                "width": 362
               },
               {
                 "active": 0,
@@ -73,12 +73,12 @@
                 ],
                 "height": 200,
                 "type": "panel",
-                "width": 365
+                "width": 362
               }
             ],
             "height": 748,
             "type": "dock-v",
-            "width": 365
+            "width": 362
           }
         ],
         "snapshot": true,

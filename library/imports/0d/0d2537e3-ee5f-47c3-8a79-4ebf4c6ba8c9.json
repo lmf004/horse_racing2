@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "horseRacing___results___horse-win-bg-3rd",
+    "texture": "8bcc1400-5df2-4b20-8d19-ece2a61edc35",
+    "atlas": "",
+    "rect": [
+      0,
+      20,
+      256,
+      220
+    ],
+    "offset": [
+      0,
+      -10
+    ],
+    "originalSize": [
+      256,
+      240
+    ]
+  }
+}

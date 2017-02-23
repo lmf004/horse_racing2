@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "8f9ffdbc-2366-4437-8ca4-9154eab447d2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "horseRacing___results___next-race-btn": {
+      "ver": "1.0.3",
+      "uuid": "b7476e5c-5335-4e8c-acf7-6830a62a0f76",
+      "rawTextureUuid": "8f9ffdbc-2366-4437-8ca4-9154eab447d2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 10,
+      "trimY": 8,
+      "width": 500,
+      "height": 104,
+      "rawWidth": 520,
+      "rawHeight": 120,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

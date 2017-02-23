@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "e234da1d-0bc0-4932-bbb9-e5e7a3808d38",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "horseRacing___results___win-ribbon": {
+      "ver": "1.0.3",
+      "uuid": "4ae2c9ac-3663-406f-9fb6-30399e35a4d6",
+      "rawTextureUuid": "e234da1d-0bc0-4932-bbb9-e5e7a3808d38",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -3.5,
+      "offsetY": -2,
+      "trimX": 5,
+      "trimY": 19,
+      "width": 599,
+      "height": 126,
+      "rawWidth": 616,
+      "rawHeight": 160,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

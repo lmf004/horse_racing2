@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "horseRacing___results___horse-win-bg-2nd",
+    "texture": "4433716c-e4eb-450c-be10-d14c44e330a1",
+    "atlas": "",
+    "rect": [
+      0,
+      20,
+      256,
+      220
+    ],
+    "offset": [
+      0,
+      -10
+    ],
+    "originalSize": [
+      256,
+      240
+    ]
+  }
+}

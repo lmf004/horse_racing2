@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "horseRacing___shared___you-awake-bg",
+    "texture": "84122a2a-c835-4aa2-932c-37aa8ff104eb",
+    "atlas": "",
+    "rect": [
+      0,
+      2,
+      30,
+      260
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      30,
+      265
+    ]
+  }
+}

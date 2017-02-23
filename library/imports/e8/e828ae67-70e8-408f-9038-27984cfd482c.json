@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "horseRacing___results___you-won-bg",
+    "texture": "248f39b2-0eaa-42d7-a7b5-5984383c9927",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      4,
+      103
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      4,
+      103
+    ]
+  }
+}

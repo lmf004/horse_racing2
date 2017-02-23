@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "horseRacing___results___win-trophy",
+    "texture": "65a0793e-37fb-4809-a535-4d4dcf3b8eec",
+    "atlas": "",
+    "rect": [
+      11,
+      9,
+      92,
+      123
+    ],
+    "offset": [
+      -1,
+      -0.5
+    ],
+    "originalSize": [
+      116,
+      140
+    ]
+  }
+}

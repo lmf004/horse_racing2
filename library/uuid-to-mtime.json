@@ -15,8 +15,8 @@
     "relativePath": "scenes\\load.fire"
   },
   "2c89ef08-3cb0-42e2-9d21-1b9211d9946b": {
-    "asset": 1487751396919,
-    "meta": 1487751538132,
+    "asset": 1487756528986,
+    "meta": 1487836171531,
     "relativePath": "resources\\texture"
   },
   "8aa34ae8-5ff5-4577-a766-c073afd54b49": {
@@ -715,8 +715,8 @@
     "relativePath": "resources\\texture\\horseRacing___betting___betpopup___chipamnt-icon.png"
   },
   "a8ce75c7-4494-40d8-9428-f7ffafebb4c0": {
-    "asset": 1487758073967,
-    "meta": 1487758073979,
+    "asset": 1487836564060,
+    "meta": 1487836564075,
     "relativePath": "scenes\\race.fire"
   },
   "bfcf7889-2a5e-4030-a216-1c70e9c0ba48": {
@@ -743,5 +743,60 @@
     "asset": 1459181152000,
     "meta": 1487756529015,
     "relativePath": "resources\\texture\\horseRacing___racing___winner-stroke.png"
+  },
+  "7dc7bb7d-0673-46c9-af39-8c5804b9a5eb": {
+    "asset": 1487843913701,
+    "meta": 1487843913711,
+    "relativePath": "scenes\\winner.fire"
+  },
+  "68e88941-02b5-48f7-a431-bff313b15045": {
+    "asset": 1459181152000,
+    "meta": 1487837334174,
+    "relativePath": "resources\\texture\\horseRacing___racing___trophy.png"
+  },
+  "4433716c-e4eb-450c-be10-d14c44e330a1": {
+    "asset": 1459181152000,
+    "meta": 1487837334178,
+    "relativePath": "resources\\texture\\horseRacing___results___horse-win-bg-2nd.png"
+  },
+  "8bcc1400-5df2-4b20-8d19-ece2a61edc35": {
+    "asset": 1459181152000,
+    "meta": 1487837334188,
+    "relativePath": "resources\\texture\\horseRacing___results___horse-win-bg-3rd.png"
+  },
+  "8d3097e8-530a-4a6f-a2dc-fee60c096bb7": {
+    "asset": 1459181152000,
+    "meta": 1487837334195,
+    "relativePath": "resources\\texture\\horseRacing___results___horse-win-bg.png"
+  },
+  "cd5254f7-a36f-4077-90a1-184fa38213dc": {
+    "asset": 1459181152000,
+    "meta": 1487837334198,
+    "relativePath": "resources\\texture\\horseRacing___results___next-race-btn-press.png"
+  },
+  "8f9ffdbc-2366-4437-8ca4-9154eab447d2": {
+    "asset": 1459181152000,
+    "meta": 1487837334207,
+    "relativePath": "resources\\texture\\horseRacing___results___next-race-btn.png"
+  },
+  "e234da1d-0bc0-4932-bbb9-e5e7a3808d38": {
+    "asset": 1459181152000,
+    "meta": 1487837334210,
+    "relativePath": "resources\\texture\\horseRacing___results___win-ribbon.png"
+  },
+  "65a0793e-37fb-4809-a535-4d4dcf3b8eec": {
+    "asset": 1459181152000,
+    "meta": 1487837334237,
+    "relativePath": "resources\\texture\\horseRacing___results___win-trophy.png"
+  },
+  "248f39b2-0eaa-42d7-a7b5-5984383c9927": {
+    "asset": 1459181152000,
+    "meta": 1487842880756,
+    "relativePath": "resources\\texture\\horseRacing___results___you-won-bg.png"
+  },
+  "84122a2a-c835-4aa2-932c-37aa8ff104eb": {
+    "asset": 1459181152000,
+    "meta": 1487843055033,
+    "relativePath": "resources\\texture\\horseRacing___shared___you-awake-bg.png"
   }
 }

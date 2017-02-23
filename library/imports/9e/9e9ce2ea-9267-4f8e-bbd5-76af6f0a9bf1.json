@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "horseRacing___results___next-race-btn-press",
+    "texture": "cd5254f7-a36f-4077-90a1-184fa38213dc",
+    "atlas": "",
+    "rect": [
+      10,
+      8,
+      500,
+      104
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      520,
+      120
+    ]
+  }
+}
