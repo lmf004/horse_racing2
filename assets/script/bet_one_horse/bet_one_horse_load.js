@@ -19,6 +19,9 @@ cc.Class({
         Global.preload_scene();
     },
 
+    confirmBetClicked: function() {
+        Global.run_scene('bet');  
+    },
     // called every frame, uncomment this function to activate update callback
     // update: function (dt) {
 

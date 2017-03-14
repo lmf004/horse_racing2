@@ -105,8 +105,8 @@
     "relativePath": "resources\\texture\\track-bg.png"
   },
   "ab45bab4-d0d4-4170-a7ba-fbfd29b24d88": {
-    "asset": 1489399396832,
-    "meta": 1489399396839,
+    "asset": 1489485729534,
+    "meta": 1489485729554,
     "relativePath": "scenes\\logo.fire"
   },
   "f0864e63-7bb5-4580-86a0-86bc9c0674bc": {
@@ -620,8 +620,8 @@
     "relativePath": "resources\\texture\\corner.png"
   },
   "df93381c-0244-4780-8565-86e628b558f6": {
-    "asset": 1489399067180,
-    "meta": 1489399067201,
+    "asset": 1489480100427,
+    "meta": 1489480100445,
     "relativePath": "scenes\\BetOneHorse.fire"
   },
   "2160a6f7-cdba-4613-aa42-dbe48e2abeb4": {
@@ -705,8 +705,8 @@
     "relativePath": "resources\\texture\\horseRacing___betting___betpopup___chipamnt-icon.png"
   },
   "a8ce75c7-4494-40d8-9428-f7ffafebb4c0": {
-    "asset": 1488173538733,
-    "meta": 1488173538762,
+    "asset": 1489485855552,
+    "meta": 1489485855564,
     "relativePath": "scenes\\race.fire"
   },
   "bfcf7889-2a5e-4030-a216-1c70e9c0ba48": {
@@ -810,8 +810,8 @@
     "relativePath": "script\\bet_one_horse.js"
   },
   "3d7fcad0-ef2f-4a94-b80b-9b3bec5e5876": {
-    "asset": 1489399315104,
-    "meta": 1489399315194,
+    "asset": 1489485724639,
+    "meta": 1489485724771,
     "relativePath": "script\\persist.js"
   },
   "fdaf694d-0035-457d-824b-869e1b863068": {
@@ -845,13 +845,18 @@
     "relativePath": "resources\\abc.png"
   },
   "123e255d-ede7-40eb-afec-9ab76f814f32": {
-    "asset": 1489137914960,
-    "meta": 1489137915033,
+    "asset": 1489480053906,
+    "meta": 1489480053977,
     "relativePath": "script\\bet_one_horse\\bet_one_horse_load.js"
   },
   "46ea1048-7b50-4127-ac20-3b8864cba1da": {
     "asset": 1489399391519,
     "meta": 1489399391581,
     "relativePath": "script\\bet_one_horse\\change_amount.js"
+  },
+  "b399b621-86de-4de6-b686-ba3ed0b98066": {
+    "asset": 1489485473559,
+    "meta": 1489485473637,
+    "relativePath": "script\\raceMenu.js"
   }
 }

@@ -3,7 +3,7 @@ cc._RFpush(module, '123e2Vd7edA66/smrdvgU8y', 'bet_one_horse_load');
 // script\bet_one_horse\bet_one_horse_load.js
 
 cc.Class({
-    "extends": cc.Component,
+    'extends': cc.Component,
 
     properties: {
         // foo: {
@@ -21,8 +21,11 @@ cc.Class({
     // use this for initialization
     onLoad: function onLoad() {
         Global.preload_scene();
-    }
+    },
 
+    confirmBetClicked: function confirmBetClicked() {
+        Global.run_scene('bet');
+    }
 });
 // called every frame, uncomment this function to activate update callback
 // update: function (dt) {

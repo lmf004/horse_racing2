@@ -44,6 +44,8 @@ window.Global = {
     six_horse_info: six_horse_conf,
     curr_scene: 'HowToPlay',
     
+    winner: 3,
+    
     bet_subtype: 1,
     change_subtype: function(n) {
         this.bet_subtype = n;  
@@ -60,13 +62,14 @@ window.Global = {
         return this.bet_amount;
     },
     
-    time_to_race: 30,
+    time_to_race: 10,
     time_to_race_past: 0,
     update_progress_bar: function(dt) {
      if(this.time_to_race > 0) {
             this.time_to_race_past += dt;
             if(this.time_to_race_past >= this.time_to_race) {
                 this.time_to_race = 0;
+                this.run_scene('race');
             }
         }        
     },
@@ -84,7 +87,8 @@ window.Global = {
         if(scene == "logo") nexts.push('HowToPlay');
         if(scene == "HowToPlay") nexts.push("bet");
         if(scene == "bet") nexts.push("BetOneHorse", "HowToPlay", "race");
-        if(scene == "BetOneHorse") nexts.push("bet");
+        if(scene == "BetOneHorse") nexts.push("bet", "race");       
+        if(scene == "race") nexts.push("bet");
         cc.log(nexts);
         for(var a in nexts) {
             cc.director.preloadScene(nexts[a], function(){});
