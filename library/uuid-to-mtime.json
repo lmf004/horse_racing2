@@ -1,12 +1,12 @@
 {
   "0da29bc9-2f34-4211-8e22-602be9fc67bb": {
-    "asset": 1487751396941,
-    "meta": 1487751538133,
+    "asset": 1488173952929,
+    "meta": 1488261206786,
     "relativePath": "scenes"
   },
   "487850f2-bc4a-434c-8a44-66cffacb7b5c": {
-    "asset": 1487751396596,
-    "meta": 1487751538131,
+    "asset": 1489049036781,
+    "meta": 1489126776379,
     "relativePath": "resources"
   },
   "e23fae98-aff9-46f9-bfab-4027510407ee": {
@@ -15,8 +15,8 @@
     "relativePath": "scenes\\load.fire"
   },
   "2c89ef08-3cb0-42e2-9d21-1b9211d9946b": {
-    "asset": 1487756528986,
-    "meta": 1487836171531,
+    "asset": 1487843055014,
+    "meta": 1488172685109,
     "relativePath": "resources\\texture"
   },
   "8aa34ae8-5ff5-4577-a766-c073afd54b49": {
@@ -25,8 +25,8 @@
     "relativePath": "resources\\texture\\bg.png"
   },
   "81b7d9c8-ae3a-4b2a-b1cf-48e0ed397ee0": {
-    "asset": 1487751396960,
-    "meta": 1487751538134,
+    "asset": 1489393755327,
+    "meta": 1489479431208,
     "relativePath": "script"
   },
   "3b9ffe96-9e07-4a5c-9fb5-50961ae7f56a": {
@@ -35,8 +35,8 @@
     "relativePath": "script\\load.js"
   },
   "fa924b25-03c1-4788-8e33-7a2e8809079c": {
-    "asset": 1487667404855,
-    "meta": 1487667404875,
+    "asset": 1488961235877,
+    "meta": 1488961235893,
     "relativePath": "scenes\\HowToPlay.fire"
   },
   "b6bb1484-b43a-4cce-9fa1-9e6065f22d7a": {
@@ -80,8 +80,8 @@
     "relativePath": "script\\how2play_scrollview.js"
   },
   "58207662-eb13-4013-8742-319e5478c831": {
-    "asset": 1487236585123,
-    "meta": 1487236585169,
+    "asset": 1489393681758,
+    "meta": 1489393681842,
     "relativePath": "script\\Menu.js"
   },
   "2cb9d863-d794-4bf9-9e27-e2f359431356": {
@@ -90,8 +90,8 @@
     "relativePath": "script\\how2play_exit.js"
   },
   "47e37748-d0d0-4805-a85e-647a51294e65": {
-    "asset": 1487574267735,
-    "meta": 1487574267780,
+    "asset": 1489392111978,
+    "meta": 1489392112007,
     "relativePath": "scenes\\bet.fire"
   },
   "d19d9888-0c21-415c-85d9-14121b4e0978": {
@@ -105,13 +105,13 @@
     "relativePath": "resources\\texture\\track-bg.png"
   },
   "ab45bab4-d0d4-4170-a7ba-fbfd29b24d88": {
-    "asset": 1487235937696,
-    "meta": 1487235937707,
+    "asset": 1489399396832,
+    "meta": 1489399396839,
     "relativePath": "scenes\\logo.fire"
   },
   "f0864e63-7bb5-4580-86a0-86bc9c0674bc": {
-    "asset": 1484896359958,
-    "meta": 1484896359999,
+    "asset": 1489136235401,
+    "meta": 1489136235501,
     "relativePath": "script\\logo.js"
   },
   "c09ef70c-37a7-41f3-9145-ae7a5d4116bb": {
@@ -135,13 +135,13 @@
     "relativePath": "resources\\texture\\menu-btn.png"
   },
   "b70f9cdb-ed37-4422-b339-2553caa54682": {
-    "asset": 1487321155506,
-    "meta": 1487321156684,
+    "asset": 1489137374710,
+    "meta": 1489137374749,
     "relativePath": "script\\exit_menu.js"
   },
   "6712125d-bb56-43e7-9b19-a1c7423e8185": {
-    "asset": 1484906710864,
-    "meta": 1484906710893,
+    "asset": 1489392757013,
+    "meta": 1489392757105,
     "relativePath": "script\\progress_bar.js"
   },
   "813f3977-f888-4631-bd38-6b76e78b8c88": {
@@ -609,16 +609,6 @@
     "meta": 1485165747932,
     "relativePath": "prefab\\webview.prefab"
   },
-  "e32a3162-f962-4f01-b16e-4f99b27b0a24": {
-    "asset": 1487229683837,
-    "meta": 1487229683848,
-    "relativePath": "scenes\\test.fire"
-  },
-  "f07dc00b-af25-4a87-a3e3-ed0d36c4da8a": {
-    "asset": 1486979885589,
-    "meta": 1486979885608,
-    "relativePath": "scenes\\test2.fire"
-  },
   "141774f5-5eed-43ae-bc66-e1cb0f7e16e1": {
     "asset": 1487145010924,
     "meta": 1487145032286,
@@ -630,8 +620,8 @@
     "relativePath": "resources\\texture\\corner.png"
   },
   "df93381c-0244-4780-8565-86e628b558f6": {
-    "asset": 1487667334028,
-    "meta": 1487667334042,
+    "asset": 1489399067180,
+    "meta": 1489399067201,
     "relativePath": "scenes\\BetOneHorse.fire"
   },
   "2160a6f7-cdba-4613-aa42-dbe48e2abeb4": {
@@ -715,8 +705,8 @@
     "relativePath": "resources\\texture\\horseRacing___betting___betpopup___chipamnt-icon.png"
   },
   "a8ce75c7-4494-40d8-9428-f7ffafebb4c0": {
-    "asset": 1487836564060,
-    "meta": 1487836564075,
+    "asset": 1488173538733,
+    "meta": 1488173538762,
     "relativePath": "scenes\\race.fire"
   },
   "bfcf7889-2a5e-4030-a216-1c70e9c0ba48": {
@@ -745,8 +735,8 @@
     "relativePath": "resources\\texture\\horseRacing___racing___winner-stroke.png"
   },
   "7dc7bb7d-0673-46c9-af39-8c5804b9a5eb": {
-    "asset": 1487844183025,
-    "meta": 1487844183040,
+    "asset": 1488269676243,
+    "meta": 1488269676251,
     "relativePath": "scenes\\winner.fire"
   },
   "68e88941-02b5-48f7-a431-bff313b15045": {
@@ -798,5 +788,70 @@
     "asset": 1459181152000,
     "meta": 1487843055033,
     "relativePath": "resources\\texture\\horseRacing___shared___you-awake-bg.png"
+  },
+  "eebae1e9-62c5-45a7-80ba-ce8347b9849b": {
+    "asset": 1488173264943,
+    "meta": 1488173264952,
+    "relativePath": "scenes\\PostTime.fire"
+  },
+  "50044721-6d25-46d1-bc75-95cdcefc9a08": {
+    "asset": 1489137604715,
+    "meta": 1489137604815,
+    "relativePath": "script\\bet_a_horse.js"
+  },
+  "fb991117-83af-4f4c-ad99-b057be47b5bc": {
+    "asset": 1489137702682,
+    "meta": 1489137702767,
+    "relativePath": "script\\bet.js"
+  },
+  "5aa6936c-362a-4918-a47f-d134a6035679": {
+    "asset": 1489045624360,
+    "meta": 1489045624385,
+    "relativePath": "script\\bet_one_horse.js"
+  },
+  "3d7fcad0-ef2f-4a94-b80b-9b3bec5e5876": {
+    "asset": 1489399315104,
+    "meta": 1489399315194,
+    "relativePath": "script\\persist.js"
+  },
+  "fdaf694d-0035-457d-824b-869e1b863068": {
+    "asset": 1489395963338,
+    "meta": 1489479431210,
+    "relativePath": "script\\bet_one_horse"
+  },
+  "84b5ace3-d5e1-4805-8404-bf87bd390470": {
+    "asset": 1489051052108,
+    "meta": 1489051052165,
+    "relativePath": "script\\bet_one_horse\\horse_idx.js"
+  },
+  "7b3625c1-c301-4070-964c-d261b18df01d": {
+    "asset": 1489052340970,
+    "meta": 1489052341071,
+    "relativePath": "script\\bet_one_horse\\horse_mask.js"
+  },
+  "76a6283d-4b4b-4102-8e1c-4aa8f9d2274f": {
+    "asset": 1489052046278,
+    "meta": 1489052046321,
+    "relativePath": "script\\bet_one_horse\\horse_head.js"
+  },
+  "c6cb41a1-6328-4312-92e7-0faa17558f06": {
+    "asset": 1489054016583,
+    "meta": 1489054016604,
+    "relativePath": "script\\bet_one_horse\\horse_name.js"
+  },
+  "383551a8-df7e-4759-8d7c-a9f5bebf0d2f": {
+    "asset": 1459181144000,
+    "meta": 1489048417404,
+    "relativePath": "resources\\abc.png"
+  },
+  "123e255d-ede7-40eb-afec-9ab76f814f32": {
+    "asset": 1489137914960,
+    "meta": 1489137915033,
+    "relativePath": "script\\bet_one_horse\\bet_one_horse_load.js"
+  },
+  "46ea1048-7b50-4127-ac20-3b8864cba1da": {
+    "asset": 1489399391519,
+    "meta": 1489399391581,
+    "relativePath": "script\\bet_one_horse\\change_amount.js"
   }
 }

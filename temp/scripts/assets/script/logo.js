@@ -20,7 +20,10 @@ cc.Class({
 
     // use this for initialization
     onLoad: function onLoad() {
+        //Global.preload_scene();
+        cc.director.preloadScene('HowToPlay', function () {});
         this.scheduleOnce(function () {
+            //Global.run_scene('HowToPlay');
             cc.director.loadScene('HowToPlay');
         }, 3);
     }

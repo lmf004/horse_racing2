@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "sources": [
+    "unknown"
+  ],
+  "names": [],
+  "mappings": "AAAA,EAAE,CAAC,KAAK,CAAC;AACL,eAAS,EAAE,CAAC,SAAS;;AAErB,cAAU,EAAE;;;;;;;;;;;KAWX;;;AAGD,UAAM,EAAE,kBAAY;AAChB,YAAI,IAAI,GAAG,IAAI,CAAC;AAChB,YAAI,GAAG,GAAG,wCAAwC,CAAC;AACnD,YAAI,MAAM,GAAG,CAAC,OAAO,EAAE,QAAQ,EAAE,OAAO,EAAE,aAAa,EAAE,WAAW,EAAE,SAAS,CAAC,CAAC;AACjF,YAAI,GAAG,GAAG,UAAU,GAAE,GAAG,GAAG,MAAM,CAAC,MAAM,CAAC,YAAY,GAAC,CAAC,CAAC,CAAC;AAC1D,UAAE,CAAC,GAAG,CAAC,YAAY,GAAC,GAAG,CAAC,CAAC;AACzB,UAAE,CAAC,MAAM,CAAC,OAAO,CAAC,GAAG,EAAE,EAAE,CAAC,WAAW,EAAE,UAAU,GAAG,EAAE,WAAW,EAAE;AAC/D,gBAAI,MAAM,GAAG,IAAI,CAAC,YAAY,CAAC,EAAE,CAAC,MAAM,CAAC,CAAC;AAC1C,kBAAM,CAAC,WAAW,GAAG,WAAW,CAAC;SACpC,CAAC,CAAC;KACN;;CAMJ,CAAC,CAAC",
+  "file": "unknown",
+  "sourcesContent": [
+    "cc.Class({\r\n    extends: cc.Component,\r\n\r\n    properties: {\r\n        // foo: {\r\n        //    default: null,      // The default value will be used only when the component attaching\r\n        //                           to a node for the first time\r\n        //    url: cc.Texture2D,  // optional, default is typeof default\r\n        //    serializable: true, // optional, default is true\r\n        //    visible: true,      // optional, default is true\r\n        //    displayName: 'Foo', // optional\r\n        //    readonly: false,    // optional, default is false\r\n        // },\r\n        // ...\r\n    },\r\n\r\n    // use this for initialization\r\n    onLoad: function () {\r\n        var self = this;\r\n        var pfx = 'horseRacing___shared___horses___horse-';\r\n        var colors = ['black', 'blonde', 'brown', 'grey-blonde', 'grey-dark', 'spotted'];\r\n        var url = \"texture/\"+ pfx + colors[Global.horse_picked-1];\r\n        cc.log('------001 '+url);\r\n        cc.loader.loadRes(url, cc.SpriteFrame, function (err, spriteFrame) {\r\n            var sprite = self.getComponent(cc.Sprite);\r\n            sprite.spriteFrame = spriteFrame;\r\n        });        \r\n    },\r\n\r\n    // called every frame, uncomment this function to activate update callback\r\n    // update: function (dt) {\r\n\r\n    // },\r\n});\r\n"
+  ]
+}

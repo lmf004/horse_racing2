@@ -1,59 +1,47 @@
-2017-02-23T07:49:26.733Z - normal: Load ~/.CocosCreator/settings.json
-2017-02-23T07:49:26.739Z - normal: checking language setting...
-2017-02-23T07:49:26.739Z - normal: Language: zh
-2017-02-23T07:49:27.805Z - success: protocol editor-framework registered
-2017-02-23T07:49:27.806Z - success: protocol app registered
-2017-02-23T07:49:27.806Z - success: protocol packages registered
-2017-02-23T07:49:27.806Z - success: protocol theme registered
-2017-02-23T07:49:27.806Z - success: protocol unpack registerred
-2017-02-23T07:49:28.167Z - normal: connected!
-2017-02-23T07:49:28.174Z - normal: Check project E:\cocos_proj\horse_racing2
-2017-02-23T07:49:28.180Z - normal: Initializing Cocos Creator Editor
-2017-02-23T07:49:29.260Z - normal: Initializing Cocos2d
-2017-02-23T07:49:30.566Z - normal: Initializing Asset Database
-2017-02-23T07:49:30.627Z - success: protocol uuid registerred
-2017-02-23T07:49:30.628Z - success: protocol db registerred
-2017-02-23T07:49:30.628Z - success: protocol thumbnail registerred
-2017-02-23T07:49:30.628Z - normal: Loading editor/builtin packages
-2017-02-23T07:49:30.849Z - success: assets loaded
-2017-02-23T07:49:30.852Z - success: builder loaded
-2017-02-23T07:49:30.856Z - success: hierarchy loaded
-2017-02-23T07:49:30.859Z - success: inspector loaded
-2017-02-23T07:49:30.861Z - success: keystore loaded
-2017-02-23T07:49:30.864Z - success: node-library loaded
-2017-02-23T07:49:30.871Z - success: preferences loaded
-2017-02-23T07:49:30.888Z - success: project-importer loaded
-2017-02-23T07:49:30.890Z - success: project-settings loaded
-2017-02-23T07:49:30.892Z - success: ui-kit loaded
-2017-02-23T07:49:30.921Z - success: ui-grid loaded
-2017-02-23T07:49:30.926Z - success: scene loaded
-2017-02-23T07:49:30.935Z - success: sprite-editor loaded
-2017-02-23T07:49:30.940Z - success: timeline loaded
-2017-02-23T07:49:30.941Z - normal: Loading builtin packages
-2017-02-23T07:49:30.956Z - success: asset-db-debugger loaded
-2017-02-23T07:49:30.957Z - success: code-editor loaded
-2017-02-23T07:49:30.958Z - success: color-picker loaded
-2017-02-23T07:49:30.962Z - success: console loaded
-2017-02-23T07:49:30.964Z - success: package-manager loaded
-2017-02-23T07:49:30.968Z - success: tester loaded
-2017-02-23T07:49:30.970Z - success: ui-kit-preview-extra loaded
-2017-02-23T07:49:30.972Z - success: ui-kit-preview loaded
-2017-02-23T07:49:30.974Z - success: ui-tree loaded
-2017-02-23T07:49:31.060Z - normal: Initializing project E:\cocos_proj\horse_racing2
-2017-02-23T07:49:31.064Z - normal: Loading packages
-2017-02-23T07:49:31.069Z - normal: Watching packages
-2017-02-23T07:49:31.097Z - normal: Run Application
-2017-02-23T07:49:32.253Z - success: preview server running at http://localhost:7456
-2017-02-23T07:49:38.752Z - normal: 1.3.3
-2017-02-23T07:49:40.617Z - error: Should not add renderer component (cc.Sprite) to a Canvas node.
-    at cc_Sprite._registSizeProvider (C:\CocosCreator\resources\engine\cocos2d\core\components\CCSGComponent.js:91:20)
-    at cc_Sprite.__preload (C:\CocosCreator\resources\engine\cocos2d\core\components\CCRendererUnderSG.js:61:14)
-    at cc_Sprite.Sprite.__preload (C:\CocosCreator\resources\engine\cocos2d\core\components\CCSprite.js:630:14)
-2017-02-23T07:58:41.409Z - error: Should not add renderer component (cc.Sprite) to a Canvas node.
-    at cc_Sprite._registSizeProvider (C:\CocosCreator\resources\engine\cocos2d\core\components\CCSGComponent.js:91:20)
-    at cc_Sprite.__preload (C:\CocosCreator\resources\engine\cocos2d\core\components\CCRendererUnderSG.js:61:14)
-    at cc_Sprite.Sprite.__preload (C:\CocosCreator\resources\engine\cocos2d\core\components\CCSprite.js:630:14)
-2017-02-23T07:59:46.355Z - error: Should not add renderer component (cc.Sprite) to a Canvas node.
-    at cc_Sprite._registSizeProvider (C:\CocosCreator\resources\engine\cocos2d\core\components\CCSGComponent.js:91:20)
-    at cc_Sprite.__preload (C:\CocosCreator\resources\engine\cocos2d\core\components\CCRendererUnderSG.js:61:14)
-    at cc_Sprite.Sprite.__preload (C:\CocosCreator\resources\engine\cocos2d\core\components\CCSprite.js:630:14)
+2017-03-14T08:17:07.124Z - normal: Load ~/.CocosCreator/settings.json
+2017-03-14T08:17:07.132Z - normal: checking language setting...
+2017-03-14T08:17:07.133Z - normal: Language: zh
+2017-03-14T08:17:08.279Z - success: protocol editor-framework registered
+2017-03-14T08:17:08.279Z - success: protocol app registered
+2017-03-14T08:17:08.280Z - success: protocol packages registered
+2017-03-14T08:17:08.280Z - success: protocol theme registered
+2017-03-14T08:17:08.280Z - success: protocol unpack registerred
+2017-03-14T08:17:08.799Z - normal: connected!
+2017-03-14T08:17:08.803Z - normal: Check project E:\cocos_proj\horse_racing2
+2017-03-14T08:17:08.808Z - normal: Initializing Cocos Creator Editor
+2017-03-14T08:17:09.810Z - normal: Initializing Cocos2d
+2017-03-14T08:17:10.140Z - normal: Initializing Asset Database
+2017-03-14T08:17:10.193Z - success: protocol uuid registerred
+2017-03-14T08:17:10.193Z - success: protocol db registerred
+2017-03-14T08:17:10.194Z - success: protocol thumbnail registerred
+2017-03-14T08:17:10.194Z - normal: Loading editor/builtin packages
+2017-03-14T08:17:10.395Z - success: assets loaded
+2017-03-14T08:17:10.398Z - success: builder loaded
+2017-03-14T08:17:10.404Z - success: hierarchy loaded
+2017-03-14T08:17:10.408Z - success: inspector loaded
+2017-03-14T08:17:10.410Z - success: keystore loaded
+2017-03-14T08:17:10.413Z - success: node-library loaded
+2017-03-14T08:17:10.421Z - success: preferences loaded
+2017-03-14T08:17:10.448Z - success: project-importer loaded
+2017-03-14T08:17:10.451Z - success: project-settings loaded
+2017-03-14T08:17:10.454Z - success: ui-kit loaded
+2017-03-14T08:17:10.461Z - success: ui-grid loaded
+2017-03-14T08:17:10.464Z - success: scene loaded
+2017-03-14T08:17:10.474Z - success: sprite-editor loaded
+2017-03-14T08:17:10.481Z - success: timeline loaded
+2017-03-14T08:17:10.481Z - normal: Loading builtin packages
+2017-03-14T08:17:10.495Z - success: asset-db-debugger loaded
+2017-03-14T08:17:10.497Z - success: code-editor loaded
+2017-03-14T08:17:10.498Z - success: color-picker loaded
+2017-03-14T08:17:10.502Z - success: console loaded
+2017-03-14T08:17:10.506Z - success: package-manager loaded
+2017-03-14T08:17:10.511Z - success: tester loaded
+2017-03-14T08:17:10.513Z - success: ui-kit-preview-extra loaded
+2017-03-14T08:17:10.515Z - success: ui-kit-preview loaded
+2017-03-14T08:17:10.517Z - success: ui-tree loaded
+2017-03-14T08:17:10.573Z - normal: Initializing project E:\cocos_proj\horse_racing2
+2017-03-14T08:17:10.578Z - normal: Loading packages
+2017-03-14T08:17:10.583Z - normal: Watching packages
+2017-03-14T08:17:10.620Z - normal: Run Application
+2017-03-14T08:17:12.027Z - success: preview server running at http://localhost:7456
+2017-03-14T08:17:18.005Z - normal: 1.3.3

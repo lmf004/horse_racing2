@@ -1,5 +1,5 @@
 cc.Class({
-    "extends": cc.Component,
+    'extends': cc.Component,
 
     properties: {
         // foo: {
@@ -18,8 +18,12 @@ cc.Class({
     onLoad: function onLoad() {},
 
     exit_menu_clicked: function exit_menu_clicked() {
-        cc.log("ok, exit menu has been clicked！！！");
-        cc.director.loadScene('HowToPlay');
+        var curr = Global.curr_scene;
+        var next;
+        if (curr == 'BetOneHorse') next = 'bet';
+        if (curr == 'bet') next = 'HowToPlay';
+        cc.log("---------8888----" + next);
+        Global.run_scene(next);
     }
     // called every frame, uncomment this function to activate update callback
     // update: function (dt) {

@@ -20,8 +20,12 @@ cc.Class({
     },
     
     exit_menu_clicked: function(){
-        cc.log("ok, exit menu has been clicked！！！");
-        cc.director.loadScene('HowToPlay');    
+        var curr = Global.curr_scene;
+        var next;
+        if(curr == 'BetOneHorse') next = 'bet';    
+        if(curr == 'bet')         next = 'HowToPlay';  
+        cc.log("---------8888----" + next);
+        Global.run_scene(next);
     }
     // called every frame, uncomment this function to activate update callback
     // update: function (dt) {

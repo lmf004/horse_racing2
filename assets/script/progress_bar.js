@@ -12,21 +12,21 @@ cc.Class({
         //    readonly: false,    // optional, default is false
         // },
         // ...
-        progress_bar: cc.Sprite
+        //progress_bar: cc.Sprite
     },
 
     // use this for initialization
     onLoad: function () {
-        var bar = this.progress_bar;
-        cc.log(bar);
-        
-       
+        //var bar = this.progress_bar;
+        this.node.scaleX = Global.progress_bar();
+        cc.log("-------------------008 " + this.node.x);
     },
 
     // called every frame, uncomment this function to activate update callback
     update: function (dt) {
-        var bar = this.progress_bar.node;
-        bar.scaleX -= 0.005;
-        if(bar.scaleX < 0) bar.scaleX = 0;
+        //var bar = this.progress_bar.node;
+        //bar.scaleX -= 0.005;
+        //if(bar.scaleX < 0) bar.scaleX = 0;
+        this.node.scaleX = Global.progress_bar();
     },
 });
