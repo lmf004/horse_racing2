@@ -25,8 +25,8 @@
     "relativePath": "resources\\texture\\bg.png"
   },
   "81b7d9c8-ae3a-4b2a-b1cf-48e0ed397ee0": {
-    "asset": 1489393755327,
-    "meta": 1489479431208,
+    "asset": 1489481885223,
+    "meta": 1489543841793,
     "relativePath": "script"
   },
   "3b9ffe96-9e07-4a5c-9fb5-50961ae7f56a": {
@@ -705,8 +705,8 @@
     "relativePath": "resources\\texture\\horseRacing___betting___betpopup___chipamnt-icon.png"
   },
   "a8ce75c7-4494-40d8-9428-f7ffafebb4c0": {
-    "asset": 1489485855552,
-    "meta": 1489485855564,
+    "asset": 1489560936274,
+    "meta": 1489560936284,
     "relativePath": "scenes\\race.fire"
   },
   "bfcf7889-2a5e-4030-a216-1c70e9c0ba48": {
